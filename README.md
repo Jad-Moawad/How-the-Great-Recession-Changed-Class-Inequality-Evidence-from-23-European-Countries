@@ -15,7 +15,7 @@ Request access to the EU-SILC data here: https://ec.europa.eu/eurostat/web/micro
 
 Analyses were conducted in R, version 4.1.2. 
 
-I used a number of packages in R, these include: broom (Robinson et al., 2020), dplyr (Wickham et al., 2015), ggplot2 (Wikcham, 2016), ggpubr (Kassambara, 2020), modelsummary (Arel-Bundock, 2021) and tidyr (Wickham, 2021).
+I used a number of packages in R, these include: broom (Robinson et al., 2020), dplyr (Wickham et al., 2015), ggplot2 (Wikcham, 2016), ggpubr (Kassambara, 2020), gridExtra (Auguie & Antonov, 2016), modelsummary (Arel-Bundock, 2021) and tidyr (Wickham, 2021).
 
 Analyses were also conducted in Julia, version 1.6.3.
 
