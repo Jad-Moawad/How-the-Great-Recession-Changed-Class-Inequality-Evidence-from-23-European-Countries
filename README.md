@@ -15,7 +15,7 @@ Request access to the EU-SILC data here: https://ec.europa.eu/eurostat/web/micro
 
 Analyses were conducted in R, version 4.1.2. 
 
-I used a number of packages in R, these include: broom (Robinson et al., 2020), dplyr (Wickham et al., 2015), ggplot2 (Wikcham, 2016), ggpubr (Kassambara, 2020), gridExtra (Auguie & Antonov, 2016), modelsummary (Arel-Bundock, 2021), readxl (Wickham et al., 2022) and tidyverse (Wickham et al., 2019).
+I used a number of packages in R, these include: broom (Robinson et al., 2021), dplyr (Wickham et al., 2015), ggplot2 (Wikcham, 2016), ggpubr (Kassambara, 2020), gridExtra (Auguie & Antonov, 2016), modelsummary (Arel-Bundock, 2021), readxl (Wickham et al., 2022) and tidyverse (Wickham et al., 2019).
 
 Analyses were also conducted in Julia, version 1.6.3.
 
@@ -37,7 +37,7 @@ Eurostat, 2020. EU - Statistics on Income and Living Conditions. https://doi.org
 
 Kassambara, A., 2020. ggpubr:“ggplot2” based publication ready plots. R package version 0.4.0. 
 
-David Robinson, Alex Hayes and Simon Couch (2021). broom: Convert Statistical Objects
+Robinson, David., Hayes, A., and Couch, Simon., 2021. broom: Convert Statistical Objects
   into Tidy Tibbles. R package version 0.7.10. https://CRAN.R-project.org/package=broom
 
 Wickham, H., 2016. ggplot2: Elegant Graphics for Data Analysis, 2nd ed. 2016. ed, Use R! Springer International Publishing : Imprint: Springer, Cham. https://doi.org/10.1007/978-3-319-24277-4
