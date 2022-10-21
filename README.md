@@ -17,9 +17,9 @@ Analyses were conducted in R, version 4.1.2.
 
 I used a number of packages in R, these include: broom (Robinson et al., 2021), dplyr (Wickham et al., 2015), ggplot2 (Wikcham, 2016), ggpubr (Kassambara, 2020), gridExtra (Auguie & Antonov, 2016), modelsummary (Arel-Bundock, 2021), readxl (Wickham et al., 2022) and tidyverse (Wickham et al., 2019).
 
-Analyses were also conducted in Julia, version 1.6.3.
+Analyses were also conducted in Julia, version 1.6.3. 
 
-I used a number of packages in Julia, these include: MixedModels (Bates et al., 2022), Effects (Alday et al., 2022) and RegressionTables (Boehm et al., 2022).
+I used a number of packages in Julia, these include: MixedModels (Bates et al., 2022), Effects (Alday et al., 2022) and RegressionTables (Boehm et al., 2022). You can open the Julia's scripts using Jupyter Notebook. 
 
 # References:
 
