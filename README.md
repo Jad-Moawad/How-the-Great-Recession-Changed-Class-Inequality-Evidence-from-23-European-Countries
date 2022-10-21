@@ -19,7 +19,7 @@ I used a number of packages in R, these include: broom (Robinson et al., 2021), 
 
 Analyses were also conducted in Julia, version 1.6.3. 
 
-I used a number of packages in Julia, these include: MixedModels (Bates et al., 2022), Effects (Alday et al., 2022) and RegressionTables (Boehm et al., 2022). You can open the Julia's scripts using Jupyter Notebook. 
+I used a number of packages in Julia, these include: MixedModels (Bates et al., 2022), Effects (Alday et al., 2022) and RegressionTables (Boehm et al., 2022). You can open Julia's scripts using Jupyter Notebook. 
 
 # References:
 
